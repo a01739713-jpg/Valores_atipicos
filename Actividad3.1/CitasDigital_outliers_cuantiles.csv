@@ -1,0 +1,655 @@
+,Unnamed: 0,BDC ,Fecha,Nombre Cliente ,Estatus de Lead,PDM,SDC,Venta,Asesor Asignado,¿Por que no ha visitado la agencia?,¿Por que no hay solicitud de credito?,¿Por que no hubo prueba de manejo ?,¿Por que no hubo proceso wow?,¿Por que se asigno antes de vistar piso?,Comentarios Adicionales,Potencial de compra
+0,0,Saul ,Abril 2025,Guillermo ,Finalizado ,1.0,0.0,0.0,Nancy,"Ya visito la Agencia  el dia jueves 17, interesado en GN8 PHEV ","Pide arrendamiento, unicamente se esta en espera de contacto con el contador, posibilidad de compra 90%","Si, hizo prueba de manejo ","Si recibio procesos wow, estuvo en la agencia mas de 3hrs ","No, se espero a que visitara la agencia para ser asignado ",Comenta que no se le hizo atractivo el arrendamiento ,0.9
+1,1,Saul ,Abril 2025,Roberto ,Finalizado ,0.0,0.0,0.0,Victor ,Ya visito la Agencia  el dia 3 de abril ,Por que primero queria manejar las unidad ,No habia unidad GS8 HEV para prueba de manejo ,"Si recibio procesos wow, sin embargo no quizo nada de lo que se le ofrecio como amenidad ",Se asigno hasta que visitara Piso ,Sin comentario adicional,0.8
+2,2,Saul ,Abril 2025,Irving ,Finalizado ,0.0,0.0,0.0,Alan ,Ya visito la agencia el dia 21 de abril ,"Firmo solicitud, sin embargo despues comento que seria contado solo que venta su auto, ya esta en proceso de venta ",Por que no habia unidad para prueba de manejo ,"Si se realizo el proceso wow, los clientes se quedaron hasta las 9:00 PM",Se asigno hasta que visitara Piso ,Se le manda msj de seguimiento 03/05/2025,0.85
+3,3,Saul ,Abril 2025,Oswaldo ,Venta ,0.0,0.0,1.0,Mauricio ,El cliente vive en Tabasco Villahermosa,Sera compra de contado,"Ya la manejo en Villahermosa, sin embargo por promocion y disponibilidad la comprara con nosotros","Las veces que se le ha marcado, agradece mucho la atencion por BDC y por el seguimiento continuo","Necesitabamos sacar el apartado, por eso se asigno antes, quedo de depositar el 23 de abril ",Sin comentario adicional,0.9
+4,4,Saul ,Abril 2025,Rodrigo ,Finalizado ,1.0,0.0,0.0,Mauricio ,"Visito la agencia el mes pasado, y nos visita nuevamente el 23 de abril ",Hoy visita nuevamente la agencia y se firma solicitud ,"La primera vez que nos visito, realizo PDM",Si recibio el proceso wow la primera vez que nos visito ,"Se asigno hasta que visitara Piso  la primera vez, y se da nuevamnete el seguimiento con ese asesor ",Por el detalle del carbilink compro en otra marca ,0.9
+5,5,Saul ,Abril 2025,Antonio,Activo ,1.0,1.0,0.0,Mauricio ,Visito la agencia el dia 13 de abril,Si hubo solicitud de credito ,Si realizo prueba de manejo ,"Lo resivio por parte del asesor, ya que el dia domingo la Hosstes descansa ",Se asigno hasta que visitara Piso ,Solo estamos en espera de venta de auto ,0.85
+6,6,Saul ,Abril 2025,Juan Carlos,Finalizado ,0.0,0.0,0.0,Ricardo ,"Se programo la visita dos dias, pero nunca asistio ",Comento que firmaba en cuando visitara la agencia ,No visito la agencia ,El el proceso de BDC siempre hubo la atencion adecuada y seguimiento ,Se asgino antes por recomendacion de Gerencia de ventas ,Comento que ya compro en otra marca,0.8
+7,7,Saul ,Abril 2025,Jose Alfredo ,Finalizado ,1.0,0.0,0.0,Mauricio ,Visito la agencia el dia 13 de abril,Se le compartio cotizacion de arrendamiento sin embargo comenta que saldria del estado y posteriormente se comunicaria ,Se realizo PDM en EMkOO HEV,Si hubo por parte del asesor,Se asigno hasta que visitara Piso ,comenta que sigue viendo opciones ,0.8
+8,8,Saul ,Abril 2025,Jacinto ,Finalizado ,0.0,0.0,0.0,Nancy,No ha visitado la agencia por temas de trabajo ,"Se esta trabajando en ello, sin embargo el cliente tarda en responder",Por que no ha visitado la agencia ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas ,Sin comentario adicional,0.8
+9,9,Saul ,Abril 2025,Felipe ,Finalizado ,1.0,0.0,0.0,Alan ,Se le complicaba asitir sin embargo se le llevo la unidad a su casa,Por que comenta que lo esta platicando con su esposa y da respuesta esta semana ,Si hubo prueba de manejo a domicilio ,"Si lo hubo por parte dell asesor, quedo muy contento ",Se asgino antes por recomendacion de Gerencia de ventas,Sin comentario adicional,0.8
+10,10,Saul ,Abril 2025,Luz Mercedes,Venta ,1.0,1.0,1.0,Mauricio ,Si visito la agencia ,Si hubo solicitud de credito ,Si realizo prueba de manejo ,Si  recibio el proceso wow,Se asigno hasta que visitara Piso ,Sin comentario adicional,0.8
+11,11,Antonio,Abril 2025,Enrique,Finalizado ,1.0,1.0,0.0,Alan ,Cita efectiva,capacidad de pago,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+12,12,Saul ,Abril 2025,Esteban ,Finalizado ,0.0,0.0,0.0,Aurelio ,No ha visitado la agencia por que primero queria saber estatus de su credito ,"El cliente esta en toda la disposicion de  compartir papeles, pero se asigno a asesor y el lead dejo de dar respuesta ",No concreto cita efectiva el vendedor ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas,Sin comentario adicional,0.6
+13,13,Saul ,Abril 2025,Ramon ,Finalizado ,1.0,1.0,0.0,Eduardo ,Ya la visito anteriormente sin embargo este mes aun no ,Hay credito autorizado ,"Ya hizo prueba de manejo, en mes anterior ",El cliente esta muy satisfecho con la atencion por parte de BDC y APV,Se asigno hasta visita en Plaza angelopolis ,Sin comentario adicional,0.9
+14,14,Saul ,Abril 2025,Jose de Jesus ,Finalizado ,1.0,0.0,0.0,Alan ,Ya visito la agencia,El apv comenta que no tiene forma de demostrat ingresos ,No quizo realizar su prueba de manejo ,Se realizo el proceso wow por parte del asesor ,Se asigno hasta que visitara Piso ,Sin comentario adicional,0.6
+15,15,Saul ,Abril 2025,Mugdel Janer Morales,Venta ,0.0,1.0,0.0,Victor ,Ya  visito la agencia,Esta en analisis,"No tenia tiempo, comenta tener prisa",Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+16,16,Antonio,Abril 2025,Carlos Alberto Rios,Activo ,0.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ingresan por Mstar,No trajo licencia,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+17,17,Antonio,Abril 2025,Vicente Cortes  ,Finalizado ,1.0,0.0,0.0,Alan ,Ya visito la agencia,Comento mandar papeles y dejo de contestar,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+18,18,Antonio,Abril 2025,Angel  ,Venta ,1.0,1.0,1.0,pedro,ya visito la agencia,compro de contado,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+19,19,Antonio,Abril 2025,Jorge Luis Nunez ,Activo ,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,Primero quiere que la vea su esposa,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+20,20,Antonio,Abril 2025,Mercy,Finalizado ,1.0,0.0,0.0,pedro,ya visito la agencia,"No quizo, solo queria boletos del cine",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+21,21,Antonio,Abril 2025,Antonio Rodriguez,Activo ,1.0,0.0,0.0,Alan ,ya visito la agencia,"ya ingreso, le faltan mas estados de cuenta",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+22,22,Antonio,Abril 2025,Juan Colotl  ,Activo ,0.0,1.0,0.0,Laura,ya visito la agencia,Ya se ingreso esta en analisis,Se le ofrecio pero no quizo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+23,23,Antonio,Abril 2025,Samuel Salamanca,Acitvo ,0.0,0.0,0.0,pedro,ya visito la agencia,Quizo conocer primero la unidad,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+24,24,Antonio,Abril 2025,Christoph Vega,Activo ,0.0,0.0,0.0,Mauricio ,ya visito la agencia,"solo vio la unidad, su bb estubo desinquieta decidieron retirarse",su bb estubo desinquieta decidieron retirarse,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+25,25,Saul ,Abril 2025,Jose Campos ,Activo ,0.0,1.0,0.0,Ricardo ,Ya visito la agencia el dia 24 de abril ,"Es arrendamiento, y esta solo en decidir la unidad ","La unidad no estaba en la agencia, y no habia GS4 habilitada para PDM",Si recibio la atencion ,Por indicaciones de gerencia de ventas,Sin comentario adicional,0.7
+26,26,Saul ,Abril 2025,Roberto Luis Pacheco,Activo ,0.0,0.0,0.0,Pedro,"Ya visito la agencia, llego desde Oaxaca ",Comenta que la unidad ,Le gusto la unidad pero comenta que no es para el ,Recibio la atencion ,Se asigno hasta que visitara Piso ,Sin comentario adicional,0.8
+27,27,Antonio,Abril 2025,Carlos  Texis  Rodriguez  ,Venta ,1.0,1.0,1.0,Alan ,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+28,28,Antonio,Abril 2025,Javier Pazos,Acitvo ,1.0,1.0,0.0,Eduardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,No aplica,Sin comentario adicional,0.7
+29,29,Antonio,Abril 2025,Roberto Portilla,Activo ,0.0,0.0,0.0,Victor ,Ya visito la agencia,No aplica,No aplica,No aplica,Se asigna en la visita,Sin comentario adicional,0.7
+30,30,Antonio ,Abril 2025,Julian marin castillo,Activo ,1.0,0.0,0.0,Aurelio ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.8
+31,34,Antonio,Mayo 2025,Edgar Becerril,Venta,1.0,1.0,1.0,Ricardo ,Ya visito la agencia,"No tenia tiempo, quedo de mandar la informacion",Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+32,35,Antonio,Mayo 2025,Quetzalli Fernanda,Acitvo ,1.0,1.0,0.0,Ricardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,No aplica,Sin comentario adicional,0.8
+33,36,Saul ,Mayo 2025,Antonio ,Finalizado,1.0,0.0,0.0,Mauricio ,Visito la Agencia el dia 1 de Mayo ,Por que primero quiere vender su sentra,Realizo PDM en Emkoo,Si hubo por parte del asesor,Se asigna en la visita,Cliente comenta tener problemas y pasa su compra para despues ,0.9
+34,37,Saul ,Mayo 2025,Estela Hernandez,Finalizado ,1.0,1.0,0.0,Mauricio ,Visito Custom 2 veces para ver emzoom ,Ya lleno la solicitud de credito ,Ya se realizo prueba de manejo en Apizaco ,Recibio la atencion ,Ocupa asesoria tecnica y visita en tlaxcala ,Se finaliza por que vio otra marca ,0.7
+35,38,Saul ,Mayo 2025,Arturo Sanchez ,Finalizado ,1.0,1.0,0.0,Referido Pablo,Nos visita el dia de hoy ,lleno papeles para credito ,Si hubo prueba de manejo ,Recibio la atencion ,Lead referido pero tratado en Digital,"Tiene credito autorizaco, pero aun no vende su camiones se le dio seguimiento pero deja de responder ",0.9
+36,39,Antonio,Mayo 2025,Anselmo Villarreal Rodas,Finalizado,1.0,1.0,0.0,Eduardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+37,40,Antonio,Mayo 2025,Andres Fernandez Martinez ,Finalizado,1.0,0.0,0.0,Eduardo ,Lo visitamos en su casa,Ya se ingreso solicitud,Espera GS8 H,No aplica,No aplica,Sin comentario adicional,0.9
+38,41,Saul ,Mayo 2025,Ulises Alejo ,Finalizado ,1.0,0.0,0.0,Nancy,Ya visito la agencia el dia domingo 11,Ya se paso a precalificar ,Si hizo prueba de manejo y le encanto la unidad ,Recibio la atencion ,Se asigno hasta el momento de la visita ,El tema de gasolina es lo que le preocupa y por eso no hace la compra,0.8
+39,42,Saul ,Mayo 2025,Jose alberto ,Finalizado ,0.0,0.0,0.0,Aurelio ,Ya nos visito el dia 12 de mayo ,No quizo dejar INE pero asegura que compra ,Si realizo prueba de manejo ,Recibio la atencion,Se asigno hasta el momento de la visita ,El cliente dice estar tomandodose su tiempo ,0.7
+40,43,Saul ,Mayo 2025,Adilene Ruiz,Venta,1.0,1.0,1.0,Mauricio ,Ya nos visito el dia 13 de mayo,Ya hay solicitud aprobada por Mstart ,Si realizo prueba de manejo ,Recibio la atencion,Se asgino hasta la visita en piso ,Sin comentario adicional,0.9
+41,44,Saul ,Mayo 2025,Gerardo garcia ,Finalizado,1.0,0.0,0.0,Eduardo ,Ya nos visito el dia 13 de mayo ,Pide que su mensualidad no exceda los 6mil ,Si hubo prueba de manejo,"recibio la atencion, se fue muy contento ",Se asigno hasta el momento de la visita ,Busca mensualidades de no mas de 6000 pero no da mas del 20% de enganche ,0.6
+42,45,Saul ,Mayo 2025,Erick Calderón,Finalizado ,1.0,0.0,0.0,Ricardo ,Ya nos visito el dia  14 de mayo,Es arrendamiento y se esta en espera de contacto,No habia unidad GS8 disponible en la agencia ,Recibio la atencion ,Se asgino hasta la visita en piso ,Comenta que no le urge y esta en espera,0.8
+43,46,Saul ,Mayo 2025,Jose Luis,Venta,1.0,1.0,1.0,Victor ,Ya nos visito el dia 17 de mayo,No quiso dejar solicitud firmada,Si hubo prueba de manejo ,Si recibio la atencion ,Se asigna hasta la visita a piso,Sin comentario adicional,0.95
+44,47,Saul ,Mayo 2025,Cesar  Aguilar,Venta,1.0,1.0,1.0,Victor ,El cliente es de Veracruz ,Ya hay credito aprobado,El cliente es de Verazruz,ha recibido la atencion correcta ,Para seguimiento a distancia por el Apv,Sin comentario adicional,0.8
+45,48,Saul ,Mayo 2025,Christian ,Venta,1.0,0.0,0.0,Aurelio ,"Ya nos visito, y comenta que nos visitara nuevamnete el dia sabado 24 de mayo",Sera compra de contado ,Se le incistio pero no quizo ,Si recibio la atencion ,Se asigna hasta la visita a piso,"Nos visitara nuevamente el dia 28 de mayo, nuevamente ",0.8
+46,49,Antonio,Mayo 2025,Diego Cabrejiz,Activo,1.0,0.0,1.0,Nancy,Ya visito la agencia,Sera compra de contado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+47,50,Antonio,Mayo 2025,Sergio Osorno,Acitvo ,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+48,51,Antonio,Mayo 2025,Jossmarr Csm Gil,Activo,1.0,1.0,0.0,Pedro/Eduardo,Ya visito la agencia,Quiere que vea la unidad su esposa,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+49,52,Saul ,Mayo 2025,Pedro Bello,Venta,1.0,1.0,1.0,CASA ,"Visito la agencia y no habia asesor lo atiende pablo, lead del mes de abril ",ya hay solicitud aprobada,Si realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.8
+50,53,Antonio,Mayo 2025,Herrera Erick/Maria del Carmen,Venta,1.0,1.0,1.0,Pedro,ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.75
+51,54,Saul ,Mayo 2025,David,Acrivo,1.0,1.0,0.0,Aurelio ,Nos visito el dia 27 de Mayo,Ya dejo todo para solicitud ,Realizo PDM en Emkoo,Recibio la atencion,Se asigna en la visita,Se fatucta a nombre de su mama ,0.9
+52,55,Antonio,Mayo 2025,Lia Vera,Venta,1.0,1.0,1.0,Victor ,Ya visito la agencia,ya tiene credito autorizado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.85
+53,56,Antonio,Mayo 2025,Francisco Mier,Activo,1.0,0.0,0.0,Victor ,Ya visito la agencia,No aplica,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+54,57,Antonio,Mayo 2025,Ricardo Pedraza Perez  ,Activo,1.0,1.0,1.0,Aurelio ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.9
+55,58,Antonio/Saul ,Mayo 2025,Clementina ,Venta,1.0,1.0,1.0,Ricardo ,Lead de base de datos ,Ya ingreso y se autorizo,Si hubo PDM ,recibio la atencion ,Lead de base de datos ,Sin comentario adicional,0.85
+56,61,Saul ,Junio 2025,Aldo Segura ,Finalizado ,1.0,1.0,0.0,Ricardo ,Nos visito el dia 03 de Mayo,Si hubo solicitud sin embargo salio rechazada,Si hay prueba de manejo ,Recibio la atenciao,Se asigna en la visita,Sin comentario adicional,0.8
+57,62,Antonio,Junio 2025,Vladimir,activo,1.0,0.0,0.0,Pedro,Ya visito la agencia,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+58,63,Antonio ,Junio 2025,Daniel,Acitvo ,1.0,0.0,0.0,Sergio Raymundo,Ya visito la agencia Custom,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+59,64,Saul,Junio 2025,Francisco Santander ,Finalizado,1.0,0.0,0.0,Alan,Nos visito el dia 08 de junio ,Pretende compra de contado ,Realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.9
+60,65,Saul ,Junio 2025,Dulce Elizabeth ,Activo ,1.0,1.0,1.0,Pedro,Nos visito el dia viernes 13 de junio ,Ya esta en analisis ,Si hubo prueba de manejo,Recibio la atencion ,Se asgino hasta la visita en piso ,Sin comentario adicional,0.9
+61,66,Saul ,Junio 2025,Fernando ,Venta ,1.0,1.0,1.0,Alan ,"Nos visito en plaza, ya deposito apartado ",Ya se esta trabajando ,En proceso,Recibio la atenciao,Se asigna por seguimiento,Sin comentario adicional,0.9
+62,67,Antonio,Junio 2025,Sergio Figueroa,Venta ,1.0,1.0,1.0,Sergio Raymundo,Ya visito la agencia,ya esta aprobada,Ya realizo prueba de manejo,Recibio la atencion,Se reasigno por seguimiento,Sin comentario adicional,0.85
+63,68,Antonio,Junio 2025,Osvaldo Peña ,Acitvo ,1.0,1.0,0.0,Ricardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.75
+64,69,Saul ,Junio 2025,Aldo Perz ,Activo ,0.0,0.0,0.0,Mauricio ,Ya nos visito el dia sabado 14 de junio ,Ya tiene credito aprobado en dorada ,Ya realizo prueba de manejo,Recibio la atencios ,Se asigna en la visita,Sin comentario adicional,0.8
+65,70,Saul ,Junio 2025,David ,Venta ,1.0,0.0,1.0,Pedro ,Ya nnos visito su esposa el dia 17 ,El esposo viene el viernes y nos deja papeles ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.9
+66,71,Saul ,Junio 2025,Manuel Portillo,Finalizado ,0.0,0.0,0.0,Gerencia ,Nos visito el dia 16 de junio,Ya hay solicitud de credito ,Si hubo prueba de manejo,Recibio la atenciao,Se asgino hasta la visita en piso ,Sin comentario adicional,0.7
+67,72,Antonio,Junio 2025,Jaime Juarez,Acitvo ,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+68,73,Antonio,Junio 2025,Pedro Jesus  Pestana Castillo ,Acitvo ,1.0,1.0,0.0,Victor ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+69,74,Antonio,Junio 2025,Maximo Fernandez/Fabiana,Venta ,1.0,1.0,1.0,Pedro ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.9
+70,75,Saul ,Junio 2025,Anabell,Venta,1.0,1.0,1.0,Pedro,Lead de mes atras ,Ya esta en proceso,Ya se realizo prueba de manejo,Recibio la atenciao,Se asigna por que se conocio en plaza ,Sin comentario adicional,0.9
+71,76,Antonio,Junio 2025,Benjamin/ Element empresa,Venta ,1.0,1.0,1.0,Alan,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.9
+72,77,Antonio,Junio 2025,Luis Carlos Gomez ,Activo,1.0,1.0,0.0,Marcos Coca,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+73,78,Antonio,Junio 2025,Jesus Morales,Venta ,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+74,79,Saul ,Junio 2025,Rossana ,Finalizado ,1.0,1.0,0.0,Miguel,Ya nos visito el dia 23 de Junio ,Ya esta pre-aprobado ,Ya realizo PDM,Recibio la atencion,Se asigna en la visita ,Injusticis,0.8
+75,80,Antonio ,Junio 2025,Parmenides Ortiz,Acitvo ,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+76,81,Antonio,Junio 2025,Miguel Angel,Acitvo ,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+77,82,Saul,Junio 2025,Jose Miguel,Activo,1.0,0.0,0.0,Mauricio,Ya nos visito el dia 27 de junio,En proceso,Ya realizo la prueba de manejo ,Si recibio la atencion ,se asigno hasta la visita de piso ,Sin comentario adicional,0.7
+78,83,Antonio,Junio 2025,Olivia rascon sosa,Acitvo ,1.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.6
+79,84,Antonio,Junio 2025,Mireya Eugenia Ceron,Acitvo ,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.6
+80,85,Antonio,Junio 2025,Arturo Alcantar,Acitvo ,1.0,1.0,0.0,Aurelio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+81,86,Saul ,Junio 2025,Hugo,Activo ,0.0,0.0,0.0,Alan ,Ya nos visito el dia 30 de junio ,Ya esta en proceso ,Ya se realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin comentario adicional,0.6
+82,88,Saul ,Julio 2025,Hugo Martines ,Activo ,1.0,1.0,0.0,Alan,Ya nos visito el dia 01 de Juio,Esta en proceso por ensueño,Si realizo la prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.6
+83,89,Antonio,Julio 2025,Heriberto Solis Perez,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.6
+84,90,Antonio,Julio 2025,Julio Jimenez,Activo,1.0,1.0,1.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+85,91,Antonio,Julio 2025,Edgar Corte ,Activo,0.0,0.0,0.0,Carlos Texis,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+86,92,Saul ,Julio 2025,Grabiel Zamora ,Activo ,1.0,1.0,0.0,Mauricio ,Ya nos visito el dia 05/julio,Esta en proceso,Esta en proceso,Esta en proceso,Se  asigna en visita,Sin comentario adicional,0.9
+87,93,Saul ,Julio 2025,Ivan ,Activo,0.0,0.0,0.0,Nos vista lunes 7,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+88,94,Saul,Julio 2025,Anthony,Activo,1.0,1.0,0.0,Nos visita el sabado 5,Ya nos visito ,Ya esta la solicitud ,Ya realizo la prueba de manejo ,Esta en proceso,No aplica,Sin comentario adicional,0.8
+89,95,Antonio,Julio 2025,Ernesto Vega,Activo,1.0,1.0,1.0,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+90,96,Saul ,Julio 2025,Hector Cortes ,Activo ,1.0,0.0,0.0,Alan Gonzalez,Ya nos visito,Esta en proceso, Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigna en la visita ,Sin comentario adicional,0.85
+91,97,Antonio,Julio 2025,Gabriel,Activo,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+92,98,Saul ,Julio 2025,Fausto,Activo ,1.0,1.0,0.0,Ricardo ,Ya nos visito el dia 11 de Julio ,Ya esta en proceso ,Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigno en la visita ,Sin comentario adicional,0.8
+93,99,Antonio,Julio 2025,Javer Moreno,Activo,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Llego al cierre del dia,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+94,100,Saul,Julio 2025,Roberto Paz Rojano ,Activo,0.0,0.0,0.0,Aurelio ,Ya nos visito el dia 15 Julio ,Ya esta en proceso ,El cliente comenta que no queria manejar la unidad ,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.8
+95,101,Saul ,Julio 2025,Alfonso ,Activo,0.0,0.0,0.0,Pedro Antonio ,Ya nos visito el dia 16 de julio ,Ya esta en proceso ,Si hubo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+96,102,Antonio,Julio 2025,Antonio/Talia,Acitvo ,0.0,1.0,1.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+97,103,Antonio,Julio 2025,Marisol Luna,Acitvo ,1.0,1.0,0.0,Aurelio ,Ya visito la agencia,Autorizada,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+98,104,Saul ,Julio 2025,Erick ,Finalizado ,1.0,1.0,0.0,Aurelio ,Ya visito la agencia ,El credito fue rachazado ,realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita ,Sin comentario adicional,0.7
+99,105,Saul,Julio 2025,Karla ,Activo ,0.0,0.0,0.0,Ignacio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita ,Sin comentario adicional,0.75
+100,106,Antonio,Julio 2025,Jose Hermenegildo ,Activo,1.0,1.0,0.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+101,107,Antonio,Julio 2025,Jossmarr  Csm Gil ,Activo,1.0,1.0,1.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.9
+102,108,Saul ,Julio 2025,Guillermina ,Activo ,1.0,1.0,0.0,Victor ,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.9
+103,109,Antonio,Julio 2025,Lorenzo Coyotl ,Activo,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+104,110,Antonio,Julio 2025,Patricia Rios,Activo,1.0,0.0,0.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.6
+105,111,Antonio,Julio 2025,Armando Alvarez Morales,Activo,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+106,112,Antonio,Julio 2025,Juan Manuel Infante,Activo,1.0,1.0,0.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.85
+107,113,Saul,Julio 2025,Gustavo Rojas Garcia,Activo ,1.0,1.0,0.0,Victor ,Ya visito la agencia,Si hay solicitud de credito ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+108,114,Saul,Julio 2025,Mauricio Garcia,Activo ,1.0,1.0,0.0,Sin asesor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+109,115,Antonio,Julio 2025,Susana Morales Gutierrez,Activo,1.0,0.0,0.0,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+110,116,Antonio,Julio 2025,Valerio Figueroa,Activo ,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+111,117,Antonio,Julio 2025,Sr Martinez,Activo,1.0,0.0,0.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+112,118,Antonio,Julio 2025,German Hernandez,Activo,1.0,0.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.6
+113,119,Saul ,Julio 2025,Oscar,Activo,0.0,1.0,0.0,Daniel ,Ya visito la agencia,Ya esta en proceso,No habia Unidad Demo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.8
+114,120,Antonio,Julio 2025,Alvaro Vega Tobón,Activo,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+115,122,Antonio,Agosto 2025,Manolin Marin  ,Activo,1.0,0.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+116,123,Ana ,Agosto 2025,Abraham Fernandez ,Activo,0.0,0.0,0.0,Mercedes,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+117,124,Antonio,Agosto 2025,Karina Madrid,Activo,1.0,0.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+118,125,Antonio,Agosto 2025,Iram Sanchez,Activo,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+119,126,Antonio,Agosto 2025,Gilberto,Activo,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+120,127,Antonio,Agosto 2025,Marta Gomez,Activo,1.0,0.0,0.0,Alan/Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.6
+121,128,Ana,Agosto 2025,Norma Cruz,Activo,1.0,0.0,0.0,Ricardo,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+122,129,Ana,Agosto 2025,Ryan Pacheco ,Activo,1.0,1.0,1.0,Pedro,Ya visito la agencia ,No aplica,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin comentario adicional,0.9
+123,130,Antonio,Agosto 2025,Miguel Edgar Ayllon,Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.75
+124,131,Antonio,Agosto 2025,Jesus Ramirez,Activo,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.7
+125,132,Ana ,Agosto 2025,Jose Frein Romero Vega ,Activo,0.0,0.0,0.0,Alan,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+126,133,Ana,Agosto 2025,Javier Garcia ,Activo,1.0,0.0,0.0,Mauricio ,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+127,134,Antonio,Agosto 2025,Angelica Tejeda,Activo,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+128,135,Antonio,Agosto 2025,Ariel Macbeth Fierro Lima,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.75
+129,136,Antonio,Agosto 2025,Robert Lopez,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.75
+130,137,Antonio,Agosto 2025,Eduardo Solis,Activo,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+131,138,Ana,Agosto 2025,Margarita Rodriguez,Finalizado,0.0,0.0,0.0,Alan,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+132,139,Ana,Agosto 2025,Jhonny Frost ,Activo,1.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,No aplica,Sin comentario adicional,0.7
+133,140,Ana ,Agosto 2025,Obed Garcia ,Activo,1.0,0.0,0.0,Alan,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+134,141,Ana ,Agosto 2025,Nazario Garcia,Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+135,142,Ana,Agosto 2025,Edson Jair,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+136,143,Ana,Agosto 2025,Oscar Daniel Cuautli LÃÂÃÂÃ,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+137,144,Ana,Agosto 2025,Ruben Quiroz ,Activo,1.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya este en proceso ,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+138,145,Antonio,Agosto 2025,Hipolito Leandro Funes ,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+139,146,Antonio,Agosto 2025,Ruben Rafael Lozada ,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+140,147,Ana,Agosto 2025,Fabi?n Zaldivar Arres ,Activo ,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,No aplica,Sin comentario adicional,0.8
+141,148,Antonio,Agosto 2025,Alejandro Sosa,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+142,149,Antonio,Agosto 2025,Evangelina Rojas Juarez ,Activo,1.0,1.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+143,150,Antonio,Agosto 2025,Curro,Activo,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,No aplica,Sin comentario adicional,0.8
+144,151,Ana,Agosto 2025,Gabino Arrieta ,Activo,1.0,0.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,No aplica,Sin comentario adicional,0.6
+145,152,Ana,Agosto 2025,Aldo Anzures Martinez,Activo,1.0,0.0,0.0,Ricardo,Ya visito la agencia ,No aplica,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.8
+146,153,Ana ,Agosto 2025,antonio pavon garcia,Activo,0.0,0.0,0.0,Marcos,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+147,154,Ana ,Agosto 2025,Andres Felipe ,Activo,0.0,0.0,0.0,Marcos,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+148,155,Antonio,Agosto 2025,Elizabeth  Toledo ,Activo,1.0,0.0,0.0,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+149,156,Antonio,Agosto 2025,JUAN ANTONIO CASTELAN SANTIAGO,Activo,1.0,0.0,0.0,VICTOR,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+150,157,Antonio,Agosto 2025,Luis Angel Ramos,Activo,1.0,0.0,0.0,Jeamy Custom,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.6
+151,158,Ana ,Agosto 2025,Julia María Navarrete Carreño,Activo ,1.0,0.0,0.0,Marcos,Ya visito  la agencia ,No aplica,Ya realizo prueba de manejo ,Recibio la atencion,No aplica,Sin comentario adicional,0.8
+152,159,Antonio,Agosto 2025,Ozair Viveros,Activo,1.0,0.0,0.0,VICTOR,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+153,160,Ana,Agosto 2025,Yaimy  Guiterrez ,Activo,0.0,0.0,0.0,VICTOR,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+154,161,Antonio,Agosto 2025,Orlando Delgado ,Activo,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.8
+155,162,Ana,Agosto 2025,Rodrigo.e.jim,Activo,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.8
+156,163,Ana,Agosto 2025,"Gabriel  Franco , Vazquez",Activo,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.6
+157,164,Antonio,Agosto 2025,Marisol Luna  Angeles,Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.8
+158,165,Antonio,Agosto 2025,"Marcos Benjamin Oviedo, Moreno",Activo,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.6
+159,166,Ana,Agosto 2025,Fernando Pacheco ,Activo,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.6
+160,168,Antonio,Septiembre 2025,Johann Arevalo Zaragoza,Activo,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.6
+161,169,Ana,Septiembre 2025,Alejandro Valentin,Activo,0.0,0.0,0.0,Alan,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+162,170,Ana,Septiembre 2025,"Maria  Dolores , Rueda ",Activo,0.0,0.0,0.0,Ignacio,Videollamada,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+163,171,Ana,Septiembre 2025,Nahum Montiel,Activo,0.0,0.0,0.0,Alan,Videollamada,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+164,172,Antonio,Septiembre 2025,Juan,Activo,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.6
+165,173,Antonio,Septiembre 2025,Comercializadora   Y Distribuidora,Activo,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.8
+166,174,Ana,Septiembre 2025,Juan Aguilar Moreno ,Activo,0.0,0.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+167,175,Ana,Septiembre 2025,Jorge Luis,Activo,0.0,0.0,0.0,Mercedes,Videollamada,Ya esta en proceso,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+168,176,Ana ,Septiembre 2025,Ricardo,Activo,0.0,0.0,0.0,Mercedes,Ya visita la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+169,177,Antonio,Septiembre 2025,Miguel Angel Cuenca Perez,Activo,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.8
+170,178,Ana,Septiembre 2025,Eloy Perez Gracia,Activo,1.0,0.0,0.0,Alan,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+171,179,Antonio,Septiembre 2025,Oscar Campech,Activo,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin comentario adicional,0.6
+172,180,Ana,Septiembre 2025,Levy Carrillo,Activo,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,No aplica,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita3,Sin comentario adicional,0.8
+173,181,Antonio,Septiembre 2025,Monserrat Vivar Garcia,Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia,No aplica,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+174,182,Ana,Septiembre 2025,Erwin Castaneda  ,Activo,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+175,183,Ana ,Septiembre 2025,Adriel Zenteno,Activo,0.0,0.0,0.0,Sin asesor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+176,184,Antonio,Septiembre 2025,Mary Luz Carrillo Eliosa,Sin estatus,1.0,0.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.7
+177,185,Ana,Septiembre 2025,Sergio   Contreras ,Activo,0.0,0.0,0.0,Maurico,Videollamada,Ya esta en proceso ,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+178,186,Antonio,Septiembre 2025,Alejandro Huerta Fuentes,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+179,187,Antonio,Septiembre 2025,Felipe Sanchez/sigmundo,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+180,188,Antonio,Septiembre 2025,Salvador Flores,Activo,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+181,189,Antonio,Septiembre 2025,Marco Antonio  Altamirano Conde ,Activo,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+182,190,Ana ,Septiembre 2025,Josue  Heron  Lopez,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+183,191,Ana,Septiembre 2025,Yoni Maravilla,Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+184,192,Antonio,Septiembre 2025,German Leon Sanchez,Activo,0.0,0.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+185,193,Ana ,Septiembre 2025,Eddie Fb ,Activo,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+186,194,Antonio,Septiembre 2025,ISACHIFT117,Activo,0.0,1.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.7
+187,195,Antonio,Septiembre 2025,Gaviota Alvarez,Activo,0.0,1.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+188,196,Ana,Septiembre 2025,Carlos Leonel  Bautista  ,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+189,197,Ana,Septiembre 2025,Marcos  Maldonado ,Activo,0.0,1.0,0.0,Julio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.6
+190,198,Ana,Septiembre 2025,"Edmon   Abdala ,  ",Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+191,199,Ana ,Septiembre 2025,Antelmo Flores Guevara,Activo,0.0,0.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+192,200,Ana,Septiembre 2025,Jose Eduardo Alonso ,Activo,0.0,1.0,0.0,Aurelio ,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.6
+193,201,Antonio,Septiembre 2025,Omar Aguilar Teyssier,Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+194,202,Ana ,Septiembre 2025,Sarai Ruiz,Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+195,203,Ana ,Septiembre 2025,Jesus Colorado,Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+196,204,Ana ,Septiembre 2025,"Juan Manuel Mendoza, Hernandez",Activo,0.0,1.0,0.0,Julio,Ya visito la agencia ,Ya esta en proceso ,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+197,205,Antonio,Septiembre 2025,Martha Fernanda Garcia,Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+198,206,Ana,Septiembre 2025,Clau,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+199,207,Antonio,Septiembre 2025,Javier Garcia Amaya,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.6
+200,208,Ana,Septiembre 2025,"Joaquin Rodrigo Arias, Rios",Activo,1.0,0.0,0.0,Julio,Ya visito la agencia ,No aplica,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin comentario adicional,0.8
+201,209,Ana ,Septiembre 2025,Jesus Monreal,Activo,1.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin comentario adicional,0.8
+202,210,Ana,Septiembre 2025,Carlos Rodriguez Perez Rodr?guez P?rez ,Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin comentario adicional,0.7
+203,211,Ana ,Septiembre 2025,Julio Cesar Vega ,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso ,No aplica,Recibio la atencion ,Se asigna en la visita ,Sin comentario adicional,0.7
+204,212,Ana,Septiembre 2025,Ivan Garcia,Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin comentario adicional,0.8
+205,213,Antonio,Septiembre 2025,Jose De Jesus  Perez,Activo,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+206,214,Ana,Septiembre 2025,Ricardo  Arenas,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+207,215,Ana,Septiembre 2025,"Miguel  Irigoyen, ",Activo,0.0,0.0,0.0,Mauricio ,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.7
+208,216,Antonio,Septiembre 2025,Rene Angel Bellizzi ,Activo,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+209,217,Ana,Septiembre 2025,Laura Ivonne Martinez ,Activo,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+210,218,Ana,Septiembre 2025,Alejandro Olivares,Activo,0.0,1.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.6
+211,219,Antonio,Septiembre 2025,Felipe  Tepale,Activo,0.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+212,220,Antonio,Septiembre 2025,Juan Carlos Miguel ,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso ,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+213,221,Ana,Septiembre 2025,Jesus Manuel  Rios,Activo,0.0,1.0,0.0,Mauricio ,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.6
+214,222,Antonio,Septiembre 2025,Nicolas Contreras,Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+215,223,ana,Septiembre 2025,"Jose De Jesus  Perez , ",Activo,1.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+216,224,Antonio,Septiembre 2025,"Jose Miguel  Cosme, Martinez",Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+217,225,Ana,Septiembre 2025,Juan Aguilar Moreno ,Activo,0.0,1.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+218,226,Ana,Septiembre 2025,Adriel Zenteno ,Activo,0.0,0.0,0.0,Ana,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+219,227,Antonio,Septiembre 2025,Jose Eduardo Toriz Bustos ,Activo,1.0,0.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+220,228,Ana,Septiembre 2025,VANNESSA LIZETTE PEREZ CARRANZA,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.7
+221,229,Ana,Septiembre 2025,Juan  Lopez Cruz ,Activo,0.0,0.0,0.0,Ricardo,Ya visito la agencia ,Ya esta en proceso ,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+222,230,Antonio,Septiembre 2025,NADIA LOPEZ GABRIEL,Activo,0.0,0.0,1.0,Mauricio,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+223,232,Ana ,Octubre 2025,"Sixto Tito  Guzman, Varela",Activo,1.0,1.0,0.0,Jhosslan,Ya visit la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+224,233,Antonio,Octubre 2025,Rogelio Hernandez,Activo,1.0,1.0,1.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.95
+225,234,Ana,Octubre 2025,Juan Francisco Olvera Alarcon,Ativo,0.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.7
+226,235,Ana,Octubre 2025,Gonzalo Chavez,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+227,236,Ana,Octubre 2025,Jesus Gilbert  Cano ,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.6
+228,237,Antonio,Octubre 2025,Eliseo Huerta,Activo,1.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.7
+229,238,Antonio,Octubre 2025,Javier  Reyes,Activo,0.0,1.0,0.0,Jhosslan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+230,239,Ana,Octubre 2025,Joaquin Moreno,Activo,0.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+231,240,Ana ,Octubre 2025,Jose  Luis   Salazar  ,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+232,241,Antonio,Octubre 2025,Jose Luis Pelcastre,Activo,1.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.75
+233,242,Antonio,Octubre 2025,Jennifer,Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.6
+234,243,Ana,Octubre 2025,Enrique  Enrique  Herrera,Activo,0.0,0.0,0.0,Julio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+235,244,Ana ,Octubre 2025,Ivan Emilio,Activo,0.0,1.0,0.0,Antonio,Ya visito la agencia ,Ya esta en proceso ,No aplica,No aplica,No aplica,Sin comentario adicional,0.85
+236,245,Ana,Octubre 2025,Jose Abraham Zamora Arenas,Activo,0.0,1.0,0.0,Ricardo,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+237,246,Antonio,Octubre 2025,Gustavo Rojas Garcia,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.8
+238,247,Ana ,Octubre 2025,Carmen  Ortega ,Activo,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,No aplica,Sin comentario adicional,0.8
+239,248,Ana,Octubre 2025,Raul Delgado,Activo,1.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,No aplica,Sin comentario adicional,0.7
+240,249,Antonio,Octubre 2025,Adan Fuentes ,Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.85
+241,250,Ana,Octubre 2025,Jose Reyes,Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo ,No aplica,No aplica,Sin comentario adicional,0.7
+242,251,Antonio,Octubre 2025,Humberto Maldonado Garcia,Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.65
+243,252,Antonio,Octubre 2025,Miguel Vasquez San Pablo ,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin comentario adicional,0.7
+244,253,Ana,Octubre 2025,Carolina Ortega,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+245,254,Antonio,Octubre 2025,Alejandro Vivas,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+246,255,Ana ,Octubre 2025,Jose Manuel Martinez Rodriguez,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso ,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+247,256,Antonio,Octubre 2025,Juan mercado González,Activo,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+248,257,Ana,Octubre 2025,Martin Magdaleno  Rodriguez ,Activo,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+249,258,Ana,Octubre 2025,Christian Capetillo,Activo,0.0,1.0,1.0,Omar,Ya visito la agencia,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+250,259,Ana,Octubre 2025,Jose Manuel Morales Gomez,Activo,0.0,1.0,0.0,Omar,Ya visito la agencia ,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+251,260,Ana ,Octubre 2025,Orlando  Cuahutle,Activo,0.0,1.0,0.0,Julio,Ya visito la agencia,Ya esta en proceso,No aplica,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+252,261,Ana,Octubre 2025,Joselin Ramirez  Escobar,Activo,0.0,1.0,0.0,Alan,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+253,262,Antonio,Octubre 2025,Rafael Davila,Activo,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.65
+254,263,Ana,Octubre 2025,Felix Luna Baleon,Activo,0.0,1.0,0.0,Jhoslan,Ya visito la agencia,Ya esta en proceso,No aplica,Recibio la atencion,No aplica,Sin comentario adicional,0.8
+255,264,Ana,Octubre 2025,Luis Munoz ,Activo ,0.0,1.0,0.0,Mauricio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+256,265,Antonio,Octubre 2025,Monserrat Torres,Activo,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+257,266,Antonio,Octubre 2025,Alberto Acocal ,Activo,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+258,267,Ana,Octubre 2025,Diego Martinez,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+259,268,Ana,Octubre 2025,Cesar Cabrera Ortega ,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+260,269,Ana,Octubre 2025,Diana  Hernandez ,Activo,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+261,270,Ana,Octubre 2025,Francisco  Mier ,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+262,271,Ana ,Octubre 2025,Margarita Diaz Garcia ,Activo,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+263,272,Antonio,Octubre 2025,Teresa Guadalupe  Guillen Venegas,Activo,0.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.75
+264,273,Antonio,Octubre 2025,Adair Lopez,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+265,274,Ana,Octubre 2025,Jairo Samuel  Pineda Velasquez,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+266,275,Ana ,Octubre 2025,"Miriam Lizbeth Ruiz, Zamudio",Activo,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.85
+267,276,Ana,Octubre 2025,Imelda  Valencia  Sanchez,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+268,277,Antonio,Octubre 2025,"Luis  Jorge , ",Activo,0.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+269,278,Ana ,Octubre 2025,Waldo Pichon ,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+270,279,Ana,Octubre 2025,"Taide Cordoba, Sandoval",Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+271,280,Antonio,Octubre 2025,"Sandi  Hernandez , ",Activo,0.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.85
+272,281,Ana,Octubre 2025,"Adriana  Zarate, Apolinar",Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+273,282,Antonio,Octubre 2025,Victor  Lorenzana ,Activo,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.65
+274,283,Antonio,Octubre 2025,"Antonio Ojeda  , ",Activo,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+275,284,Ana,Octubre 2025,Mario Alberto Medrano Mayo,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+276,285,Antonio,Octubre 2025,Antonio De Jesus Lima Hernandez,Activo,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+277,286,Ana ,Octubre 2025,"Antonio  Lopez, ",Activo,0.0,1.0,1.0,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+278,287,Antonio,Octubre 2025,"Todoro Lopez, ",Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+279,288,Ana,Octubre 2025,"Martin Vazquez  , ",Activo,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.65
+280,289,Antonio,Octubre 2025,"Israel Chavez  , ",Activo,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+281,290,Antonio,Octubre 2025,Rocio Lopez Mesa,Activo,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+282,292,Ana,Noviembre 2025,Alexis  Palestina ,Activo,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+283,293,Ana,Noviembre 2025,Vanessa  Maza ,Activo,1.0,1.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+284,294,Ana,Noviembre 2025,"Hugo Jorge  , ",Activo,1.0,1.0,1.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.7
+285,295,Ana,Noviembre 2025,"David  Torres , Ramirez ",Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+286,296,Ana,Noviembre 2025,Yasmin Galindo ,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+287,297,Ana,Noviembre 2025,Ricardo  Martinez Tepox ,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+288,298,Ana,Noviembre 2025,Ari  Valero ,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin comentario adicional,0.8
+289,299,Ana,Noviembre 2025,Guadalupe Hernandez ,Activo,1.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+290,300,Ana,Noviembre 2025,Humberto Calixto,Activo ,1.0,1.0,0.0,Aurelio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+291,301,Antonio,Noviembre 2025,Isidro Ramos,Activo,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+292,302,Antonio,Noviembre 2025,Jose Alberto ,Activo,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+293,303,Antonio,Noviembre 2025,Andrea Hernandez Reyes,Activo,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+294,304,Antonio,Noviembre 2025,Manuel Rodriguez ,Activo,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+295,305,Antonio,Noviembre 2025,José Iván Sánchez Pérez,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+296,306,Antonio,Noviembre 2025,Octavio Arvea,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+297,307,Ana,Noviembre 2025,Mario Negrete Juarez ,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.7
+298,308,Ana,Noviembre 2025,Juan Gonzales ,Activo,0.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.7
+299,309,Ana,Noviembre 2025,Marcial   Sanchez   ,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.8
+300,310,Ana,Noviembre 2025,Jesus Ivan Ibarra Robles,Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.8
+301,311,Ana,Noviembre 2025,Juan Antonio  Cid  Reynoso  ,Activo,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.7
+302,312,Ana,Noviembre 2025,Cesar Cabrera Ortega ,Activo,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.7
+303,313,Ana,Noviembre 2025,Jose De Jesus  Franco Saldana ,Activo,0.0,0.0,0.0,Ricardo ,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.7
+304,314,Ana,Noviembre 2025,Jose C Tecnom ,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.8
+305,315,Ana,Noviembre 2025,Rene Beguerisse Torres,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.7
+306,316,Antonio,Noviembre 2025,Jose Ramon Marquez,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+307,317,Antonio,Noviembre 2025,Ramsey Tecnom,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+308,318,Ana,Noviembre 2025,Jorge Ariza,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+309,319,Ana,Noviembre 2025,"Manuel  Vinaz, ",Activo,1.0,1.0,0.0,Omar,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+310,320,Antonio,Noviembre 2025,Efrain Zamudio ,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+311,321,Antonio,Noviembre 2025,Rivera Castillo,Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+312,322,Ana,Noviembre 2025,Alan Quintero Munive,Activo,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+313,323,Ana,Noviembre 2025,Omar Garcia Vazquez,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,No aplica,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+314,324,Ana ,Noviembre 2025,Victor Arrroyo Tecnom,Activo ,1.0,0.0,0.0,Pedro,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+315,325,Ana,Noviembre 2025,Hugo Jirge Regalado Castaneda,Activo,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+316,326,Ana,Noviembre 2025,"Arizbeck  Ortiz, ",Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+317,327,Ana,Noviembre 2025,"David  Torres , Ramirez ",Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+318,328,Ana,Noviembre 2025,Vanessa  Maza ,Activo,0.0,0.0,1.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+319,329,Antonio,Noviembre 2025,Hugo Jirge Regalado  Castaneda ,Activo,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+320,330,Antonio,Noviembre 2025,"Jean  Simoni, ",Activo,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+321,331,Antonio,Noviembre 2025,Gustavo Rojas ,Activo,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+322,332,Ana,Noviembre 2025,"Rafael  Chocolatl, Cervantes",Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+323,333,Ana,Noviembre 2025,"Dionisio Arce, Martinez",Activo,0.0,0.0,0.0,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+324,334,Antonio,Noviembre 2025,Mauel  Ramirez ,Activo ,0.0,1.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+325,335,Ana,Noviembre 2025,"Roberto Carlos Parra, Castelan",Activo,1.0,1.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+326,336,Ana,Noviembre 2025,Jose Luis Martinez,Activo,0.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+327,337,Antonio,Noviembre 2025,"Oscar  Arroyo, ",Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+328,338,Antonio,Noviembre 2025,"Hector Alejandro Gonzalez Tapia  , ",Activo,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+329,339,Ana,Noviembre 2025,Cristian Ocampo ,Activo,1.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+330,340,Ana,Noviembre 2025,"Gloria Elena  Benavides, ",Activo,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+331,341,Antonio,Noviembre 2025,Efrain Zamudio ,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+332,342,Antonio,Noviembre 2025,Carolina  Ortega ,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+333,343,Antonio,Noviembre 2025,"Hector Miguel  Fernandez , ",Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+334,345,Antonio,Diciembre 2025,Sr. Elvis fb,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+335,346,Antonio,Diciembre 2025,Magdaleno,Activo,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+336,347,Ana ,Diciembre 2025,Cerezo Honorato,Activo,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+337,348,Ana ,Diciembre 2025,Laura Garcia,Activo,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+338,349,Ana,Diciembre 2025,Sr. Francisco Cianca,Activo,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+339,350,Antonio,Diciembre 2025,Jose De Jesus Perez Hernandez,Activo,0.0,0.0,0.0,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No aplica,Sin comentario adicional,0.8
+340,351,Ana,Diciembre 2025,Jose Abraham,Activo,1.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+341,352,Ana,Diciembre 2025,Jose Luis Rojas Aguilar,Activo,1.0,0.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+342,353,Ana,Diciembre 2025,"Sr. Roberto Loeza
+",Activo,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+343,354,Ana,Diciembre 2025,Ale Arellano,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+344,355,Antonio,Diciembre 2025,Eugenio De Las Heras B,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+345,356,Antonio,Diciembre 2025,Francisco/Maria del Sol,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+346,357,Antonio,Diciembre 2025,Filiberto González Guarneros,Activo,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+347,358,Antonio,Diciembre 2025,Jose Alberto,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+348,359,Antonio,Diciembre 2025,Luciano Valdès,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+349,360,Antonio,Diciembre 2025,Agustin,Activo,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+350,361,Ana,Diciembre 2025, MIGUEL SANTAMARIA MORALES,Activo,1.0,0.0,0.0,Cesar ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.9
+351,362,Ana,Diciembre 2025,Jose Luis Guevara,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+352,363,Ana,Diciembre 2025,Dario Castillo,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+353,364,Ana,Diciembre 2025,Sixto Tito,Activo,0.0,0.0,0.0,Victor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+354,365,Antonio,Diciembre 2025,Antonio Sanchez,Activo,1.0,0.0,0.0,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+355,366,Ana ,Diciembre 2025,Marco Antonio,Activo,0.0,0.0,0.0,Julio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+356,367,Antonio,Diciembre 2025,Andy,Activo,1.0,0.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+357,368,Antonio,Diciembre 2025,Hugo,Activo,1.0,0.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+358,369,Antonio,Diciembre 2025,Vicente Acosta,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+359,370,Ana,Diciembre 2025,Luis Lopez,Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+360,371,Ana,Diciembre 2025,Lalo Diaz,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia                              ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.9
+361,372,Ana,Diciembre 2025,Julián García,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+362,373,Antonio,Diciembre 2025,Rigoberto Salazar,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+363,374,Antonio,Diciembre 2025,Rodriguez Perslta,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+364,375,Antonio,Diciembre 2025,Diana Paola Cervantes Márquez,Activo,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+365,376,Antonio,Diciembre 2025,Mahe Aguilar,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+366,377,Ana ,Diciembre 2025,Eliut t,Activo,1.0,0.0,0.0,Julio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+367,378,Ana,Diciembre 2025,Edward T,Activo,0.0,1.0,0.0,Julio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+368,379,Ana ,Diciembre 2025,Mtro Milton,Activo,0.0,0.0,0.0,Cesar,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+369,380,Ana,Diciembre 2025,"Maria Elena  Sanchez , Perez ",Activo,1.0,1.0,0.0,Pedro,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+370,381,Antonio,Diciembre 2025,Oscar Bautista,Activo,0.0,0.0,0.0,Sin asesor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+371,382,Ana,Diciembre 2025,Adrian Paadilla,Activo,1.0,0.0,0.0,Ricardo,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+372,383,Ana ,Diciembre 2025,Gregorio Roldan Garcia,Activo,0.0,0.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+373,384,Antonio,Diciembre 2025,Manuel Baltazar,Activo,0.0,1.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+374,385,Antonio,Diciembre 2025,Carlos Mungia,Activo,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+375,386,Antonio,Diciembre 2025,Edith Gonzalez,Activo,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+376,387,Antonio,Diciembre 2025,Guillermo Canto,Activo,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+377,388,Antonio,Diciembre 2025,Gabriel Meza,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+378,389,Antonio,Diciembre 2025,Jose Miguel,Activo,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+379,390,Antonio,Diciembre 2025,Carlos Ignacio,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+380,391,Antonio,Diciembre 2025,Carlos,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+381,393,Antonio,Enero 2026,Miguel Ramirez,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+382,394,Antonio,Enero 2026,Marcela Ramírez,Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+383,395,Antonio,Enero 2026,Rafael Lopez,Activo,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+384,396,Antonio,Enero 2026,Irma Juarez,Activo,0.0,0.0,0.0,Elizabeth,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+385,397,Ana,Enero 2026,Jimmy T,Activo,0.0,0.0,0.0,Mauricio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+386,398,Ana,Enero 2026,Misael  Rodriguez ,Activo,0.0,0.0,0.0,Ignacio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+387,399,Ana,Enero 2026,"Cesar  C ,  ",Activo,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+388,400,Antonio,Enero 2026,Mireya,Activo,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+389,401,Antonio,Enero 2026,Liliana Alvarez,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+390,402,Antonio,Enero 2026,Rodrigo P,Activo,0.0,0.0,0.0,Carlos Mejia/ pachuca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+391,403,Antonio,Enero 2026,Alfonso Ibañez Olmos,Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+392,404,Antonio,Enero 2026,Guillermo Hernandez,Activo,0.0,0.0,0.0,Nanacy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+393,405,Ana,Enero 2026,Roman Aguilar,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+394,406,Ana,Enero 2026,NATANAEL OLVERA San Pablo,Activo,1.0,1.0,0.0,Victor,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+395,407,Ana,Enero 2026,Lau T,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+396,408,Ana,Enero 2026,Jose Luis Dominguez,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+397,409,Antonio,Enero 2026,Juan FLores,Activo,0.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+398,410,Antonio,Enero 2026,Omar  Cuautle,Activo,0.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+399,411,Ana,Enero 2026,Luis Angel l Rojas Lecona,Activo,0.0,0.0,0.0,Cesar,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+400,412,Ana,Enero 2026,Joe Carrera,Activo,0.0,0.0,0.0,Julio Cesar,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+401,413,Ana,Enero 2026,ana CAROLINA CAMPO,Activo,1.0,1.0,0.0,Ricardo,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+402,414,Ana,Enero 2026,Sadrac  Acostha ,Activo,0.0,0.0,0.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+403,415,Ana,Enero 2026,Ricardo,Activo,0.0,0.0,0.0,Julio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+404,416,Antonio,Enero 2026,Alejandra Martinez,Activo,0.0,0.0,0.0,Alan,FORANEA VERACRUZ,Ya esta en proceso,FORANEA VERACRUZ,FORANEA VERACRUZ,Se asigno por SC,Sin comentario adicional,0.9
+405,417,Antonio,Enero 2026,Ericka Huerta Viveros,Activo,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,Sin comentario adicional,0.7
+406,418,Antonio,Enero 2026,EDGAR ARCOS,Activo,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,Sin comentario adicional,0.7
+407,419,Antonio,Enero 2026,Julio Guzmán,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,Sin comentario adicional,0.6
+408,420,Ana,Enero 2026,Sadrac Acosta,Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+409,421,Ana,Enero 2026,Darth V,Activo,0.0,1.0,0.0,Pedro,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+410,422,Ana,Enero 2026,JUAN VALDEZ,Activo,1.0,0.0,0.0,Alan,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+411,423,Ana,Enero 2026,Lidio Sandoval Vazquez,Activo,0.0,0.0,0.0,Sin asesor,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+412,424,Antonio,Enero 2026,Julio Cesar,Activo,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,Sin comentario adicional,0.8
+413,425,Ana,Enero 2026,Luis Aldana,Activo,1.0,0.0,0.0,Carlos Mejia,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+414,426,Ana,Enero 2026,CARLOS ERNESTO PAREDES,Activo,1.0,0.0,0.0,Julio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+415,427,Ana,Enero 2026,Demetrio  Zamara,Activo,1.0,1.0,0.0,Mauricio,Ya visito la agencua,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+416,428,Ana,Enero 2026,Roberto De Jesus Lopez,Activo,0.0,0.0,0.0,Alan,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+417,430,Antonio,Febrero 2026,Sergio Cebada,Activo,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+418,431,Antonio,Febrero 2026,Orlando Peralta,Activo,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+419,432,Antonio,Febrero 2026,jose angel varela,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+420,433,Antonio,Febrero 2026,ANA MARIA NIETO,Activo,0.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+421,434,Antonio,Febrero 2026,Nitzel Zempoaltecatl,Activo,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+422,435,Antonio,Febrero 2026,Sergio ortega,Activo,1.0,1.0,1.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+423,436,Antonio,Febrero 2026,Ramón Antonio,Activo,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+424,437,Antonio,Febrero 2026,Cuautemoc Paramo Prado,Activo,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+425,438,Ana,Febrero 2026,Josafat Cuapio,Activo,0.0,1.0,0.0,Sin asesor,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+426,439,Ana,Febrero 2026,Gilberto Fr,Activo,0.0,0.0,0.0,Carlos Hernandez,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+427,440,Ana,Febrero 2026,Sergio Gonzalez,Activo,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+428,441,Ana,Febrero 2026,Adolfo Aguilar,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+429,442,Ana,Febrero 2026,Antonio De Jesús Lima Hernández,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+430,443,Antonio,Febrero 2026,Cesar M,Activo,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+431,444,Ana,Febrero 2026,Martín Vázquez,Sin estatus,0.0,0.0,0.0,Victor,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+432,445,Ana,Febrero 2026,Pimentel Eleuterio,Sin estatus,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+433,446,Antonio,Febrero 2026,Frida T,Activo,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+434,447,Ana,Febrero 2026,Alicia Avila,Activo,0.0,0.0,0.0,Julio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+435,448,Ana,Febrero 2026,Carlos Lozano Ramos,Activo,1.0,0.0,0.0,Julio ,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+436,449,Ana,Febrero 2026,MA ELENA ISABEL LEAN BURGOS-,Activo ,1.0,1.0,0.0,AURELIO,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+437,450,Antonio,Febrero 2026,Miguel Galindo Aburto,Activo,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+438,451,Antonio,Febrero 2026,Omar Reyes,Activo,1.0,0.0,0.0,Julio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.75
+439,452,Antonio,Febrero 2026,Fernando Tellez,Activo,0.0,0.0,0.0,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+440,453,Antonio,Febrero 2026,Rey Hernandez,Antonio,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+441,454,Ana,Febrero 2026,Bety Herrera,Activo,0.0,0.0,0.0,Carlos Hdz,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+442,455,Ana,Febrero 2026,Miguel Grande,Activo,1.0,0.0,0.0,Sin asesor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+443,456,Ana,Febrero 2026,Israel Hernández Pérez,Activo ,0.0,0.0,0.0,Sin asesor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+444,457,Ana,Febrero 2026,JOSE LUIS LOYA,Activo,1.0,0.0,0.0,Victor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+445,458,Ana,Febrero 2026,Brian Michel Villegas,Activo,1.0,0.0,0.0,Alan,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+446,459,Ana,Febrero 2026,Hugo Velazquez,Activo,0.0,0.0,0.0,Mauricio,Videollamada,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+447,460,Antonio,Febrero 2026,Karen,Activo,1.0,0.0,0.0,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+448,462,Antonio,Marzo 2026,Rene Osorno,Activo,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+449,463,Antonio,Marzo 2026,Jose Carlos Hernandez,Activo,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+450,464,Ana,Marzo 2026,Oscar Ezpinoza,Activo ,1.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+451,465,Antonio,Marzo 2026,Cesar Chavez,Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+452,466,Ana,Marzo 2026,Miguel Angel Ramirez Avalos,Activo,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+453,467,Antonio,Marzo 2026,Ana Paola,Activo ,1.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+454,468,Ana,Marzo 2026,Jack Joaquín Sabina Zárate Juárez,Activo,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+455,469,Ana,Marzo 2026,Adrian Cristobal,Activo ,0.0,1.0,0.0,Sin asesor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+456,470,Antonio,Marzo 2026,PRE HOGAR,Activo,1.0,0.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+457,471,Antonio,Marzo 2026,Maura Gonzalez,Activo ,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+458,472,Antonio,Marzo 2026,Carlos Nava,Activo ,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+459,473,Ana,Marzo 2026,Luis arturo chora lara,Activo ,1.0,0.0,0.0,Julio Cesar,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+460,474,Ana,Marzo 2026,Jose Isidro,Activo ,1.0,0.0,0.0,Julio Cesar,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+461,475,Antonio,Marzo 2026,Sergio,Activio,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+462,476,Antonio,Marzo 2026,Athalia,Activo ,0.0,0.0,1.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.9
+463,477,Antonio,Marzo 2026,Alfonso Ramirez,Activo,1.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+464,479,Antonio,Abril 2026,Carlos León,Activo ,0.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.7
+465,480,Ana,Abril 2026,Jesus P,Activo,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.8
+466,481,Ana,Abril 2026,JUAN DE DIOS NAVARRETE MENDEZ,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,No aplica,No aplica,Sin comentario adicional,0.7
+467,482,Ana,Abril 2026,Anyvia Jazmín Cruz Mendoza,Activo,0.0,0.0,0.0,Carlos Mejia,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+468,483,Antonio,Abril 2026,Christofer,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.65
+469,484,Ana,Abril 2026,Simon Vega Aquiahuatl,Activo,0.0,1.0,0.0,Vanny,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+470,485,Ana,Abril 2026,HECTOR JIMÉNEZ ALDAY,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+471,486,Ana,Abril 2026,Jhonathan Bravo,Activo,1.0,0.0,0.0,Maurico,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+472,487,Ana,Abril 2026,Cristobal,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+473,488,Antonio,Abril 2026,MARÍA DEL CARMEN GRADOS,Activo,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+474,489,Antonio,Abril 2026,Alejandro Cruz Adabache,Activo,0.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.75
+475,490,Antonio,Abril 2026,Juan José castellon,Activo,0.0,0.0,0.0,Ivan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.8
+476,491,Antonio,Abril 2026,Dianarely Marquez,Activo,0.0,0.0,0.0,Mauricio,SC,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin comentario adicional,0.6
+477,492,Ana,Abril 2026,Dr Julio Cesar,Activo,0.0,0.0,0.0,Vanny,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+478,493,Ana,Abril 2026,David Omar Damián González,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+479,494,Ana,Abril 2026,Arturo Delgado García,Activo,0.0,0.0,0.0,Victor,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+480,495,Ana ,Abril 2026,Mario Moreno,Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+481,496,Ana,Abril 2026,Victor Luciano Huerta Acosta Huerta,Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+482,497,Ana,Abril 2026,Roberto Aguilar,Activo,0.0,0.0,0.0,Julio ,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+483,498,Ana,Abril 2026,Rulo Vera,Activo,1.0,0.0,0.0,Nayeli,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+484,499,Ana,Abril 2026,Rafael Cázares,Activo,0.0,0.0,0.0,Julio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+485,500,Ignacio ,Abril 2026,Antonio Escalona ,Activo ,1.0,1.0,0.0,Pedro Gonzalez ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+486,501,Ignacio ,Abril 2026,Martin Ortuño ,Activo ,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+487,502,Ignacio ,Abril 2026,Salvador Jasso ,Activo ,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,depende del padres ,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+488,503,Ignacio ,Abril 2026,Luis Pelcastre ,Activo,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+489,504,Ignacio ,Abril 2026,Santa Garcia ,Activo,1.0,1.0,0.0,Carlos Hernandez ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+490,505,Ignacio ,Abril 2026,Gamaliel Vega ,Activo,1.0,1.0,1.0,Pedro ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+491,506,Ana,Abril 2026,Victor Hugo Narvaez,Activo,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+492,507,Ana,Abril 2026,EDGAR SILES,Activo,0.0,0.0,0.0,Julio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+493,508,Ana,Abril 2026,JAIRO ROJAS,Activo,0.0,0.0,0.0,Pedro ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+494,509,Ana,Abril 2026,Carlos Perez,Activo,0.0,0.0,0.0,Pedro,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+495,510,Ana,Abril 2026,Arnold perales,Activo,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+496,511,Ana ,Abril 2026,Said Azpeitia Blanco,Activo-,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+497,512,Ignacio ,Abril 2026,Ricardo Gutierrez,Activo-,1.0,0.0,1.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+498,513,Ignacio ,Abril 2026,Jorge de gante,Activo-,1.0,1.0,0.0,Pedro ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+499,514,Ignacio ,Abril 2026,Javier Aguilar ,Activo-,0.0,0.0,0.0,Pedro ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+500,515,Ignacio ,Abril 2026,Marco Antonio Valencia ,Activo-,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+501,516,Igancio ,Abril 2026,Rocio Cortes ,Activo-,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+502,517,Ana ,Abril 2026,Armando Uribe Torres,Activo,1.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+503,518,Ignacio ,Abril 2026,Elias Dias Salgado ,Activo ,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+504,519,Ana,Abril 2026,andres Domínguez,Activo,1.0,0.0,0.0,Fatima,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+505,520,Ana,Abril 2026,Rafael Sanchez,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+506,521,Ana ,Abril 2026,Carlos Herrera,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+507,522,Ana,Abril 2026,Daniel Morales Hernández,Activo,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+508,523,Ana,Abril 2026,Jehu Rodriguez,Activo,1.0,0.0,0.0,Mauricio,Ya visto la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+509,524,Ignacio ,Abril 2026,Juan Pablo Castellanos ,Activo,0.0,0.0,0.0,Victor Sanchez ,Ya visto la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+510,525,Ana,Abril 2026,Pablo Archundia López,Activo,1.0,0.0,0.0,Mauricio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+511,526,Ana,Abril 2026,JOSE LUIS,Activo,0.0,0.0,0.0,Mauricio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+512,527,Ana,Abril 2026,Alejandro Tapia Rueda,Activo,0.0,0.0,0.0,Carlos,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+513,528,Ana,Abril 2026,Angel Perez,Activo,0.0,0.0,0.0,Vanny,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+514,529,Ana,Abril 2026,Julio Lopez,Activo,1.0,0.0,0.0,Pedro Gonzalez,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+515,530,Ana,Abril 2026,Miguel Antonio Fernandez,Activo,0.0,0.0,0.0,Nayeli,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+516,531,Ana,Abril 2026,Alejandro Sanchez,Activo,0.0,0.0,0.0,Julio Cesar,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+517,532,Ana,Abril 2026,Cesar Palafox,Activo,0.0,0.0,0.0,Vanny,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+518,533,Ana,Abril 2026,HUGO BADILLO,Activo,0.0,0.0,0.0,Alvaro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+519,540,Ignacio ,Mayo 2026,Alan Guerrero ,Activo,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+520,541,Ignacio ,Mayo 2026,Larrisa Oidor ,Sin estatus,0.0,1.0,0.0,Mauricio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+521,542,Ignacio ,Mayo 2026,Jorge Duran ,Activo ,0.0,0.0,0.0,Pedro ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+522,543,Ignacio ,Mayo 2026,Hector Reyes ,Sin estatus,1.0,1.0,0.0,Pedro ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+523,544,Ana ,Mayo 2026,Leo Rodríguez,Activo,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+524,545,Ana,Mayo 2026,Neftali Lima Sanchez,Activo,0.0,0.0,0.0,Julio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+525,546,Igancio ,Mayo 2026,Alhdair Bonifacio Ramos ,Activo ,0.0,0.0,0.0,Victor ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+526,547,Igancio ,Mayo 2026,Gary Hernandez ,Activo ,0.0,0.0,0.0,Vanny ,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+527,548,Ana,Mayo 2026,Edgar Alejandro,Activo,0.0,1.0,0.0,Aurelio,Ya visito la agencia,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+528,549,Ana,Mayo 2026,Celestino Olivares Flores,Activo,1.0,1.0,0.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+529,550,Ana,Mayo 2026,Margarita Martìnez Mirand,Activo,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+530,551,Ana,Mayo 2026,Armando Uribe Torres-,Activo,0.0,0.0,0.0,Fatima,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+531,552,Ana,Mayo 2026,Jose F,Activo,1.0,0.0,0.0,Julio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+532,553,Ana,Mayo 2026,Jesus Flores sanchez,Activo,1.0,0.0,0.0,Pedrp,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+533,554,Ana,Mayo 2026,JOSE IGNACIO,Activo,1.0,0.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+534,555,Ignacio ,Mayo 2026,Fernando Duran ,Activo,0.0,0.0,0.0,Pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+535,556,Ignacio ,Mayo 2026,Guillermo Benavides ,activo,1.0,1.0,0.0,Pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+536,557,Ignacio ,Mayo 2026,Hugo Franco ,activo,1.0,0.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+537,558,Ignacio ,Mayo 2026,Luis Enrique Palomares ,Activo,0.0,0.0,0.0,Aurelio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+538,559,Ana ,Mayo 2026,Edgar Alejandro,Activo,1.0,1.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+539,560,Ana,Mayo 2026,Eduardo Apodaca Espinosa,Activo,0.0,1.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+540,561,Ana,Mayo 2026,Marco xs,Activo,1.0,0.0,0.0,Julio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+541,562,Ana,Mayo 2026,JOSE SANCHEZ,Activo,0.0,1.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+542,563,Ana ,Mayo 2026,Roberto Garcia ,Activo,0.0,1.0,0.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+543,564,Ana,Mayo 2026,Gustavo Melendez,Activo,0.0,1.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+544,565,Ignacio ,Mayo 2026,Ruben Lopez ,Activo,1.0,1.0,0.0,Mario ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+545,566,Ignacio ,Mayo 2026,Jaime trejo ,Activo ,1.0,1.0,0.0,Pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+546,567,Igancio ,Mayo 2026,Alma Sanchez ,Activo ,0.0,0.0,0.0,Pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+547,568,Ignacio ,Mayo 2026,Carlos Cervantes ,Activo ,0.0,0.0,0.0,Mauricio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+548,569,Ignacio ,Mayo 2026,Santa Garcia ,Activo ,1.0,1.0,1.0,Carlos ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+549,570,Ignacio ,Mayo 2026,Raul Miranda ,Activo ,0.0,1.0,1.0,Mauricio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+550,571,Ana ,Mayo 2026,Juan Manuel Hernández,Activo,1.0,0.0,0.0,Fatima,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+551,572,Ana,Mayo 2026,Ramon Castro Vite,Activo,1.0,1.0,0.0,Fatima,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+552,573,Ana,Mayo 2026,Ernesto Pachuca,Activo,0.0,1.0,0.0,Carlos Mejia,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+553,574,Ana,Mayo 2026,Adalyn montiel morales,Activo,1.0,0.0,0.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+554,575,Ana,Mayo 2026,EVERT VALVERDE JIMENEZ,Activo,1.0,0.0,0.0,Mario,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+555,576,Ana,Mayo 2026,Benjamin Sanchez,Activo,1.0,1.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+556,577,Ana,Mayo 2026,Quiroz Daniel,Activo,1.0,0.0,0.0,Mauricio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+557,578,Ignacio ,Mayo 2026,Armando Briones ,Activo ,0.0,1.0,0.0,Pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+558,579,Ana,Mayo 2026,Salomon Sanchyez,Sin estatus,0.0,0.0,0.0,Vanny,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+559,580,Ana,Mayo 2026,Adriana F,Activo,1.0,0.0,0.0,Carlos Mejia,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+560,581,Ana,Mayo 2026,Angel Romo,Sin estatus,1.0,0.0,0.0,Vanny,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+561,582,Ignacio ,Mayo 2026,Juan Carlos Carreto ,Sin estatus,0.0,1.0,0.0,pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+562,583,Ignacio ,Mayo 2026,Alberto SR,Sin estatus,0.0,1.0,0.0,Pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+563,584,Ana,Mayo 2026,Sebastian F,Sin estatus,1.0,0.0,0.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+564,585,Ana,Mayo 2026,Jorge G,Sin estatus,1.0,1.0,0.0,Victor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+565,586,Ignacio ,Mayo 2026,Fernando Zárate ,Activo ,1.0,1.0,0.0,Victor ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+566,587,Igancio ,Mayo 2026,Karla Marquez ,Activo ,0.0,0.0,0.0,Pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+567,588,Ana,Mayo 2026,ansony f,Activo,1.0,0.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+568,589,Ana,Mayo 2026,Jorge A Quiroz,Activo,1.0,0.0,0.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+569,590,Ignacio ,Mayo 2026,Michel Taja ,Activo ,0.0,0.0,0.0,Aurelio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+570,591,Ignacio ,Mayo 2026,Jairo Rodriguez ,Activo ,0.0,0.0,0.0,Victro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+571,592,Ignacio ,Mayo 2026,Arturo Lopez ,Activo ,0.0,0.0,0.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+572,593,Ignacio ,Mayo 2026,Yolanda Castellanos ,Activo ,0.0,1.0,1.0,Victor ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+573,594,Ana ,Mayo 2026,Juan Roque,Activo ,1.0,1.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+574,595,Igancio ,Mayo 2026,Maria guadalupe Serrano ,Activo ,0.0,0.0,1.0,Victor ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+575,596,Ana,Mayo 2026,MARCO ANTONIO CHARTUNI,Activo,0.0,1.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+576,597,Ana,Mayo 2026,Alexey ,Activo ,1.0,1.0,0.0,Ana,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+577,598,Ana,Mayo 2026,Brenda Lucero,Activo ,1.0,1.0,0.0,VICTOR,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+578,600,Ignacio ,2026-06-01,Francisco Cacho ,Activo ,0.0,0.0,0.0,Mario ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+579,601,Ignacio ,2026-06-01,Guillermo Hernandez ,Activo ,1.0,0.0,0.0,Pedro Antonio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+580,602,Ignacio ,2026-06-02,Roberto Quintana ,Activo ,0.0,0.0,0.0,Nayeli ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+581,603,Ignacio ,2026-06-03,Karla Marquez ,Activo ,0.0,0.0,1.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+582,604,Ana ,2026-06-01,Javier Juarez Solano,Activo,1.0,0.0,0.0,Vanny,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+583,605,Ana,2026-06-03,Ommar Herrera,Activo,1.0,0.0,0.0,Carlos mejia,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+584,606,Ana,2026-06-04,Andres Cuevas,Activo,0.0,0.0,0.0,Carlos Mejia ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+585,607,Ana,2026-06-05,Fernanda Lopez,Activo,1.0,1.0,0.0,Ignacio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+586,608,Ana,2026-06-02,Jose,Activo,0.0,0.0,0.0,Llamada,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+587,609,Ignacio,2026-06-06,Gregorio Tlapanco ,Activo ,0.0,0.0,0.0,Mario Varela,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+588,610,Ignacio ,2026-06-12,Ivan Bravo ,Activo ,1.0,1.0,1.0,Mario Varela ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+589,611,Ignacio ,2026-06-12,Angelica Briones ,Activo ,0.0,0.0,0.0,Julio Cesar ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+590,612,Ignacio ,2026-06-12,Juan Alberto Vargas ,Activo ,1.0,0.0,0.0,Mario Varela ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+591,613,Ana,2026-06-17,Moises ,Activo,1.0,0.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+592,614,Ana,2026-06-10,LUIS CASTILLO,Activo,0.0,0.0,0.0,Fer,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+593,615,Ana,2026-06-12,Eder Hernandez,Activo,0.0,0.0,0.0,Fatima,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+594,616,Ana,2026-06-13,Alberto Madrigal,Activo,0.0,0.0,0.0,Pedro Antonio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+595,617,Ana,2026-06-06,Jesus Adelfo Hernandez Montiel,Activo,0.0,0.0,0.0,Julio Cesar,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+596,618,Ana,2026-06-16,Eduardo Delón Páez,Activo,1.0,0.0,0.0,Nayeli,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+597,619,Ana,2026-06-10,LUIS FERNANDO SANCHEZ QUIROZ,Activo,1.0,0.0,0.0,Mario,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+598,620,Ana,2026-06-05,Ommar Herrera,Activo,1.0,0.0,0.0,Carlos Mejia,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+599,621,Ana,2026-06-06,Jaime Davila Baez,Activo,1.0,0.0,0.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+600,622,Ana,2026-06-19,Jan cx,Activo,0.0,0.0,0.0,Carlos Mejia ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+601,623,Ana,2026-06-16,BERNARDO ALCARAZ MORALES,Activo,1.0,0.0,0.0,Nayeli,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+602,624,Ana,2026-06-07,Juan Carlos García Hernández,Activo,1.0,0.0,0.0,Carlos Mejia,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+603,625,Ana,2026-06-15,Benjamin Mendez,Activo ,1.0,0.0,0.0,Vanny,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+604,626,Ana,2026-06-06,Jesus F,Activo,0.0,0.0,0.0,Fer F,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+605,627,Ana,2026-06-28,Sergio Flores,Activo,0.0,0.0,0.0,Fatima,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+606,628,Ana,2026-06-28,Sofia polo,Activo,0.0,0.0,0.0,Vanny,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+607,629,Ignacio ,2026-06-29,Jorge Canche ,Activo ,0.0,0.0,0.0,Ignacio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+608,630,Igancio ,2026-06-28,Octavio Perez ,Activo ,0.0,1.0,0.0,Pedro Antonio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+609,631,Ignacio ,2026-06-28,Adelina Khalikova ,Activo ,1.0,0.0,0.0,Pedro Antonio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+610,632,Ignacio ,2026-06-27,Roberto Luna Rosas ,Activo ,1.0,0.0,1.0,Pedro Antonio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+611,633,Ignacio ,2026-06-19,Miguel Martinez ,Activo ,1.0,0.0,0.0,Nayeli ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+612,634,Ignacio ,2026-06-20,Humberto Valencia ,Activo ,0.0,0.0,0.0,Aurelio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+613,635,Ignacio ,2026-06-19,Propescto Orizaba ,Activo ,0.0,0.0,0.0,Nayeli ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+614,636,Ana ,2026-06-24,Paul Kehrli,Activo,0.0,0.0,0.0,Pedro Antonio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+615,637,Ana ,2026-06-15,Benjamin Mendez,Activo ,0.0,0.0,0.0,Vanny,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+616,638,Ana,2026-06-06,Reynaldo Cobos ,Activo,1.0,0.0,0.0,Ulises,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+617,639,Ana,2026-06-20,Arturo Moreno ,Activo,0.0,0.0,0.0,Nayeli,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+618,640,Ana,2026-06-17,Moises Hdez,Activo,0.0,0.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+619,642,Ignacio ,2026-06-04,Arquimedes Rugerio ,Activo ,1.0,0.0,0.0,Nayeli ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+620,643,Ignacio ,2026-06-04,Victor Manuel Diaz Ortiz ,Activo ,1.0,0.0,0.0,Cesar Pestaña,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.6
+621,644,Ana,2026-06-02,Margarita Romero Castillo,Activo ,1.0,1.0,0.0,Pedro Antonio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+622,645,Ana,2026-07-07,Eder Chavez,Activo ,1.0,0.0,0.0,Fatima,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+623,646,Ana,2026-07-07,Alejandro VELAZQUEZ,Activo ,1.0,1.0,0.0,Nayeli,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+624,647,Ana,2026-07-11,Miguel irigoyen,Activo ,0.0,0.0,0.0,Julio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+625,648,Ana,2026-07-08,Jose Hernandez Gonzalez,Activo ,1.0,1.0,0.0,Pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+626,649,Ignacio ,2026-07-09,Oswaldo Rueda ,Activo ,1.0,1.0,0.0,Pedro ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+627,650,Ignacio ,2026-07-10,Arturo Mendez ,Activo ,1.0,0.0,0.0,Mauricio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+628,651,Ana,2026-07-08,Ruben Vargas,Acrivo,1.0,1.0,0.0,Julio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+629,652,Ana ,2026-07-04,Edgar Herrera,Activo,1.0,0.0,0.0,Fatima,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+630,653,Igancio ,2026-07-14,luis Hernandez,Activo ,1.0,0.0,0.0,Nayeli ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+631,654,Ignacio ,2026-07-14,Omar Garcia ,Activo ,1.0,0.0,0.0,Nayeli ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+632,655,Ignacio ,2026-07-13,Rosaura Mendez Quechol ,Activo ,0.0,0.0,1.0,Mauricio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+633,656,Ana,2026-07-14,Alfonso f,Activo,1.0,0.0,0.0,Nayeli,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+634,657,Ana,2026-07-10,Lizbeth Garcia,Activo,1.0,0.0,0.0,Julio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.7
+635,658,Ana ,2026-07-11,Mike Mora,Activo,0.0,1.0,0.0,Alfredo,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.9
+636,659,Ana,2026-07-14,Azucena de Jesus machorro arreola,Activo,1.0,1.0,0.0,Nayeli,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+637,660,Ana,2026-07-13,Jose F,Activo,0.0,0.0,0.0,Sin asesor,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+638,661,Ana,2026-07-16,Daniel Padilla,Activo,1.0,1.0,0.0,Fernanda,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.9
+639,662,Ana,2025-07-16,Juan Carazo Juan Carazo,Activo,0.0,0.0,0.0,Pedro,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+640,663,Ana,2026-07-16,MARIBEL BARRON,Activo,1.0,0.0,0.0,Mario,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.9
+641,664,Igancio ,2026-07-17,Bernardo Ayuso ,Sin estatus,0.0,0.0,0.0,Nayeli ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+642,665,Ignacio ,2026-07-16,Victor Garcai ,Sin estatus,0.0,0.0,0.0,Alfredo ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+643,666,Ignacio ,2026-07-18,Johancarlo Islas ,Activo ,0.0,0.0,0.0,Julio Cesar ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+644,667,Ana,2026-07-16,Margaret Silva Serrano,Activo,1.0,0.0,0.0,Nayeli,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+645,668,Ignacio ,2026-07-21,Carlos Balderrama ,Activo ,1.0,1.0,1.0,Mario Varela ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+646,669,Ignacio ,2026-07-21,Andrés Netzahuatl ,Activo ,0.0,0.0,0.0,Mauricio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+647,670,Ana,2026-07-22,Arat Israel,Activo,1.0,1.0,0.0,Aurelio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.75
+648,671,Ana,2026-07-22,Maira Escalante,Activo ,1.0,1.0,0.0,Pedro Antonio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+649,672,Ignacio ,2026-07-22,Zaira Macip ,Activo ,0.0,0.0,0.0,Aurelio ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+650,673,Ignacio ,2026-07-27,Julio Hernandez ,Activo ,1.0,0.0,0.0,Victor ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+651,674,Ignacio ,2026-07-24,Xhunaxhi Vicente ,Activo ,1.0,1.0,1.0,Ignacio,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
+652,675,Ignacio ,2026-07-29,DR Jairo Rodriguez Farias ,Activo ,1.0,1.0,1.0,Victor ,No aplica,No aplica,No aplica,No aplica,No aplica,Sin comentario adicional,0.8
